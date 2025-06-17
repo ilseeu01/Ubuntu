@@ -1,0 +1,1 @@
+Fork is an operation wheraby a process creates a copy of itself.

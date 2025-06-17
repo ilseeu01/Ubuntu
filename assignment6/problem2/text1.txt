@@ -1,0 +1,1 @@
+An i-node (index node) is a data structure in a UNIX-style file system.
